@@ -26,3 +26,18 @@ The website introduces who I am, what I enjoy, and what I'm working towards. I w
 - Make the website more mobile-friendly
 - Add more sections as I learn new skills
 *Still learning. Still building. Always curious.*
+
+## AI Usage
+
+I used ChatGPT as a learning assistant while developing Gweth’s Corner.
+
+AI helped me with:
+
+- **HTML and CSS:** Understanding code and improving the structure and styling of my website.
+- **Design ideas:** Exploring ways to make the website more personal and visually appealing.
+- **Troubleshooting:** Getting guidance when I needed help understanding or fixing issues.
+- **Learning:** Breaking down web development concepts into steps I could understand and apply.
+
+I used AI suggestions as guidance while working on my project. This project is also part of my journey to improve my coding skills, understand how websites work, and become a better developer.
+
+My goal is to keep learning, experimenting, and improving the website as I gain more experience.
